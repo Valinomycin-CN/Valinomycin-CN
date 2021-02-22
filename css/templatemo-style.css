@@ -326,7 +326,7 @@ h1,h2,h3,h4,h5 {
 }
 
 .slider-options {
-    background: #3c4755;
+    background: #3c47;
     position: absolute;
     width: 100%;
     height: 80px;
@@ -660,8 +660,21 @@ html,body {
     visibility: visible;
 }
 
-#contact {
+#article {
     background: #3c4755;
+}
+
+.article-holder {
+    margin-bottom: 90px;
+    display: inline-block;
+}
+
+.article-item {
+    margin-bottom: 30px;
+}
+
+#contact {
+    background: #2d3640;
     padding-bottom: 70px;
 }
 
@@ -673,7 +686,7 @@ html,body {
     padding: 10px;
     width: 100%;
     margin-bottom: 30px;
-    background: #2d3640;
+    background: #3c4755;
     border: 0;
     outline: 0;
     font-size: 13px;
